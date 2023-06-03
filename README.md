@@ -2,7 +2,7 @@
 
 > "Not your server, not your data."
 
-**Memo-Boost** is an open-source self-custodial personal data management system.
+**Memo-Boost** is an open-source self-custodial data management framework.
 
 - Mitigates trust factors when storing and using data.
 - Users have flexibility to customize memo-boost according to their requirements.
@@ -29,7 +29,7 @@ For Read Client, DBMS like DBeaver are good enough, but we can imagine more for 
 
 - memo summarization, visualization, brainstorm-assisting tool using AI
 
-- paying crypto to subscribe other's memos
+- paying crypto to subscribe to other's memos
 
 - exporting data in csv form
 
