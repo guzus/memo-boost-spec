@@ -9,6 +9,8 @@
 
 ## Memo-Boost Architecture
 
+<img src="https://github.com/guzus/memo-boost/assets/50664161/7d2569f2-eaab-4f94-954a-923e0a6b770c" width=300>
+
 memo-boost consists of three modules: `Client, Relay, Database`.
 
 Users should host their own and `Relay` (essential), `Database` (essential) and `Client` (optional).
