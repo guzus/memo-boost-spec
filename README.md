@@ -2,7 +2,7 @@
 
 > "Not your server, not your data."
 
-**Memo-Boost** is an open-source self-custodial data management framework.
+**Memo-Boost** is a highly composable, self-custodial data management open-source framework.
 
 - Mitigates trust factors when storing and using data.
 - Users have flexibility to customize memo-boost according to their requirements.
